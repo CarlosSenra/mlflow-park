@@ -2,7 +2,7 @@
 
 ## Description
 
-Criando um projoto com MLflow
+Criando um projeto com MLflow
 
 ## Commands
 

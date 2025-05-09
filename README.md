@@ -39,7 +39,7 @@ Criando um projoto com MLflow
 │
 ├── setup.cfg          <- Configuration file for flake8
 │
-└── mlflow   <- Source code for use in this project.
+└── src   <- Source code for use in this project.
     │
     ├── __init__.py             <- Makes mlflow a Python module
     │
