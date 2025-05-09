@@ -1,0 +1,15 @@
+artifact_uri: file:///home/carlos/Documentos/programas/Alura_/CD4ML/mlflow/notebooks/mlruns/767021303406655053/4d86c2d7792a4e298511babfb39cd75c/artifacts
+end_time: 1746797352815
+entry_point_name: ''
+experiment_id: '767021303406655053'
+lifecycle_stage: active
+run_id: 4d86c2d7792a4e298511babfb39cd75c
+run_name: sincere-hog-939
+run_uuid: 4d86c2d7792a4e298511babfb39cd75c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746797351256
+status: 3
+tags: []
+user_id: carlos

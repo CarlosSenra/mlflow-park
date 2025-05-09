@@ -1,0 +1,15 @@
+artifact_uri: file:///home/carlos/Documentos/programas/Alura_/CD4ML/mlflow/notebooks/mlruns/767021303406655053/3dfa0e57ae1d454d8b40d75185e120e7/artifacts
+end_time: 1746797860214
+entry_point_name: ''
+experiment_id: '767021303406655053'
+lifecycle_stage: active
+run_id: 3dfa0e57ae1d454d8b40d75185e120e7
+run_name: monumental-deer-354
+run_uuid: 3dfa0e57ae1d454d8b40d75185e120e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746797858632
+status: 3
+tags: []
+user_id: carlos

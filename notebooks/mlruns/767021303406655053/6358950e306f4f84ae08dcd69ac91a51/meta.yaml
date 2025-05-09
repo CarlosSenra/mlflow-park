@@ -1,0 +1,15 @@
+artifact_uri: file:///home/carlos/Documentos/programas/Alura_/CD4ML/mlflow/notebooks/mlruns/767021303406655053/6358950e306f4f84ae08dcd69ac91a51/artifacts
+end_time: 1746797603703
+entry_point_name: ''
+experiment_id: '767021303406655053'
+lifecycle_stage: active
+run_id: 6358950e306f4f84ae08dcd69ac91a51
+run_name: unruly-snipe-964
+run_uuid: 6358950e306f4f84ae08dcd69ac91a51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746797602131
+status: 3
+tags: []
+user_id: carlos

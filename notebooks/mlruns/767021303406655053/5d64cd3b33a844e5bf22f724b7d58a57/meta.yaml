@@ -1,0 +1,15 @@
+artifact_uri: file:///home/carlos/Documentos/programas/Alura_/CD4ML/mlflow/notebooks/mlruns/767021303406655053/5d64cd3b33a844e5bf22f724b7d58a57/artifacts
+end_time: 1746798472690
+entry_point_name: ''
+experiment_id: '767021303406655053'
+lifecycle_stage: active
+run_id: 5d64cd3b33a844e5bf22f724b7d58a57
+run_name: efficient-lynx-613
+run_uuid: 5d64cd3b33a844e5bf22f724b7d58a57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746798470238
+status: 3
+tags: []
+user_id: carlos

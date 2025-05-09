@@ -1,0 +1,15 @@
+artifact_uri: file:///home/carlos/Documentos/programas/Alura_/CD4ML/mlflow/notebooks/mlruns/767021303406655053/8ab0a9eb8aac4c2da4b903fcbbc39de2/artifacts
+end_time: 1746798117596
+entry_point_name: ''
+experiment_id: '767021303406655053'
+lifecycle_stage: active
+run_id: 8ab0a9eb8aac4c2da4b903fcbbc39de2
+run_name: luminous-calf-714
+run_uuid: 8ab0a9eb8aac4c2da4b903fcbbc39de2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746798115385
+status: 3
+tags: []
+user_id: carlos

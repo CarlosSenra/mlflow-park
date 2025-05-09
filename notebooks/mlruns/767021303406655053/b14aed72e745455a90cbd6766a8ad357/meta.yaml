@@ -1,0 +1,16 @@
+artifact_uri: file:///home/carlos/Documentos/programas/Alura_/CD4ML/mlflow/notebooks/mlruns/767021303406655053/b14aed72e745455a90cbd6766a8ad357/artifacts
+deleted_time: 1746798528776
+end_time: 1746798200213
+entry_point_name: ''
+experiment_id: '767021303406655053'
+lifecycle_stage: deleted
+run_id: b14aed72e745455a90cbd6766a8ad357
+run_name: vaunted-bird-480
+run_uuid: b14aed72e745455a90cbd6766a8ad357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746798199792
+status: 4
+tags: []
+user_id: carlos

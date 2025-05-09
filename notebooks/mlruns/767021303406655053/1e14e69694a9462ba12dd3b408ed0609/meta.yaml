@@ -1,0 +1,16 @@
+artifact_uri: file:///home/carlos/Documentos/programas/Alura_/CD4ML/mlflow/notebooks/mlruns/767021303406655053/1e14e69694a9462ba12dd3b408ed0609/artifacts
+deleted_time: 1746798528776
+end_time: 1746798211853
+entry_point_name: ''
+experiment_id: '767021303406655053'
+lifecycle_stage: deleted
+run_id: 1e14e69694a9462ba12dd3b408ed0609
+run_name: kindly-wolf-819
+run_uuid: 1e14e69694a9462ba12dd3b408ed0609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746798211686
+status: 4
+tags: []
+user_id: carlos
