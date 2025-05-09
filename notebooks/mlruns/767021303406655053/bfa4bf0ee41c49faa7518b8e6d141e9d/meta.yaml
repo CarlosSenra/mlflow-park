@@ -1,0 +1,15 @@
+artifact_uri: file:///home/carlos/Documentos/programas/Alura_/CD4ML/mlflow/notebooks/mlruns/767021303406655053/bfa4bf0ee41c49faa7518b8e6d141e9d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '767021303406655053'
+lifecycle_stage: active
+run_id: bfa4bf0ee41c49faa7518b8e6d141e9d
+run_name: intrigued-bass-240
+run_uuid: bfa4bf0ee41c49faa7518b8e6d141e9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746796741614
+status: 1
+tags: []
+user_id: carlos
