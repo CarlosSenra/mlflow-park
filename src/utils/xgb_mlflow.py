@@ -1,5 +1,7 @@
 import logging
 from typing import Dict
+import mlflow.xgboost
+import xgboost
 from xgboost import XGBRFRegressor
 
 import pandas as pd
@@ -16,7 +18,7 @@ logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 )
 
-def run_xgb_mlflow(X_train:pd.DataFrame, 
+def run_xgbrf_mlflow(X_train:pd.DataFrame, 
                    X_test:pd.DataFrame, 
                    y_train:pd.Series, 
                    y_test:pd.Series, 
@@ -37,7 +39,8 @@ def run_xgb_mlflow(X_train:pd.DataFrame,
         logger.warning(f"Encontrados {missing_train} valores ausentes nos dados de treinamento")
     mlflow.set_experiment("preco-casas-eda")
     
-    with mlflow.start_run()as run:
+    with mlflow.start_run() as run:
+        mlflow.xgboost.autolog()
         run_id = run.info.run_id
         logger.info(f"Iniciando MLflow run: {run_id}")  
         
@@ -72,4 +75,4 @@ def run_xgb_mlflow(X_train:pd.DataFrame,
             logger.info("Processo terminado com sucesso !")
         except Exception as e:
             logger.error(f"Erro durante execucao: {str(e)}", exec_info=True)
-            raise
+            raise   

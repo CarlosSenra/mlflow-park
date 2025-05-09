@@ -8,7 +8,7 @@ if str(root_dir) not in sys.path:
     
 from src.utils.config import CASAS_DATA_FILE
 from src.utils.metric_evalueation import metricas_regressao
-from src.utils.xgb_mlflow import run_xgb_mlflow
+from src.utils.xgb_mlflow import run_xgb_mlflow, run_xgbrf_mlflow
 
 import pandas as pd
 
@@ -36,8 +36,10 @@ X_train, X_test, y_train, y_test = train_test_split(X,y, test_size=.2)
 logger.info("Dados splitados !")
 
 if __name__ == "__main__":
-    run_xgb_mlflow(X_train, 
+    run_xgbrf_mlflow(X_train, 
                     X_test, 
                     y_train, 
                     y_test, 
                     xgb_params)
+    
+    

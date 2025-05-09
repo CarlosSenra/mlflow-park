@@ -1,0 +1,9 @@
+digest: f775e169
+name: dataset
+profile: '{"num_rows": 5, "num_elements": 15}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "tamanho", "required": true},
+  {"type": "long", "name": "ano", "required": true}, {"type": "long", "name": "garagem",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "carlos", "mlflow.source.name": "/home/carlos/Documentos/programas/Alura_/CD4ML/mlflow/src/modeling/train_model.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "73c8aeb785f569f1ca022d89cf8750dcbebfdb3f"}}'
+source_type: code

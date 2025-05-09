@@ -1,0 +1,15 @@
+artifact_uri: file:///home/carlos/Documentos/programas/Alura_/CD4ML/mlflow/mlruns/712175433530039085/8241edceada144f98f58ed69571a5c7f/artifacts
+end_time: 1746826509088
+entry_point_name: ''
+experiment_id: '712175433530039085'
+lifecycle_stage: active
+run_id: 8241edceada144f98f58ed69571a5c7f
+run_name: indecisive-moth-619
+run_uuid: 8241edceada144f98f58ed69571a5c7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746826504062
+status: 3
+tags: []
+user_id: carlos
